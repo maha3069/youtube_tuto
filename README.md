@@ -1,7 +1,15 @@
 # Maitrisez Langchain (80%)
-les fonctionailtes de langchain 
+## Fonctionailtés principales de langchain 
+![Texte alternatif](images/langchain_fonctionalites.png)
 
 
-### Ressources
-le notebook : tuto_langchain.ipynb
-le fichier utilisé pour le tuto histoirep.txt
+### Ressources:
+
+- Notebook: tuto_langchain.ipynb
+- Fichier utilisé pour le tuto histoirep.txt
+  
+ [Groq](https://groq.com)
+
+[Hugging Face](https://huggingface.com)
+
+
