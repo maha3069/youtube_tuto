@@ -25,3 +25,5 @@ Indexer les embeddings dans une base de données vectorielle ChromaDB.
 Initialiser un modèle linguistique (LLM) à l'aide de Groq.
 
 Générer une réponse à l'aide du prompt augmenté et du LLM.
+## Ressources:
+le doc en pdf : https://github.com/maha3069/youtube_tuto/tree/3b0bdd4ca84ddd48baded3238f819f096e648767/rag/srources
