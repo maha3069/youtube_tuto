@@ -1,6 +1,8 @@
 # RAG Complet
 
 ## Regardez la video sur youtube 👇:
+[![Titre de la vidéo](https://img.youtube.com/vi/adG_oWEzyjc/0.jpg)](https://www.youtube.com/watch?v=adG_oWEzyjc)
+
 ## Plan de Tuto:
 **Installation:** Installer les bibliothèques nécessaires (groq, langchain, chromadb, pypdf).
 
