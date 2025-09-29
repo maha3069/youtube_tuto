@@ -2,7 +2,8 @@
 
 ## Regardez la video sur youtube 👇:
 
-[![Titre de la vidéo](https://img.youtube.com/vi/Wvuj_QOezhY/0.jpg)](https://www.youtube.com/watch?v=Wvuj_QOezhY&t=311s)
+[![Regarder la vidéo](https://img.youtube.com/vi/adG_oWEzyjc/0.jpg)](https://youtu.be/adG_oWEzyjc)
+
 
 ## Fonctionailtés principales de langchain 
 ![Texte alternatif](images/langchain_fonctionalites.png)
